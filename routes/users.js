@@ -5,5 +5,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', UserController.users_list);
+/* Post users create */
+router.post('/create', UserController.users_create);
 
 module.exports = router;
