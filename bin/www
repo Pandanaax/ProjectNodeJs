@@ -2,7 +2,7 @@
 /**
  * Module dependencies.
  */
-
+require('dotenv').config()
 var models = require('../models');
 var app = require('../app');
 var debug = require('debug')('project-kiliba:server');
