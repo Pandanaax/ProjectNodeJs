@@ -8,7 +8,7 @@ git clone https://github.com/randabali/ProjectNodeJs.git
 ```
 ## Once you have cloned the project, please follow the guidelines below.
 * install postam => https://www.postman.com/downloads/
-* install mangodb => https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+* install mongodb => https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 * install node.js
 * install express => http://expressjs.com/en/starter/installing.html
 
